@@ -9,6 +9,7 @@
     font-size: 32px;
     font-weight: 600;
   }
+
   .desc{
     padding-top: 10px;
     font-weight: 200;
@@ -27,4 +28,7 @@
   }
   .twt {
     color: #1da1f2;
+  }
+  body {
+    overflow: hidden;
   }
